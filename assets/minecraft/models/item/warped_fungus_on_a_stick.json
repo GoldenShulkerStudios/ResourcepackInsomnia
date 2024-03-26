@@ -1,0 +1,41 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/warped_fungus_on_a_stick"
+	},
+	
+	"overrides": [
+		{
+			"predicate": { "custom_model_data": 1 },
+			"model": "warped_fungus_on_a_stick/1"
+		},
+		{
+			"predicate": { "custom_model_data": 2 },
+			"model": "warped_fungus_on_a_stick/2"
+		},
+		{
+			"predicate": { "custom_model_data": 3 },
+			"model": "warped_fungus_on_a_stick/3"
+		},
+		{
+			"predicate": { "custom_model_data": 4 },
+			"model": "warped_fungus_on_a_stick/4"
+		},
+		{
+			"predicate": { "custom_model_data": 5 },
+			"model": "warped_fungus_on_a_stick/5"
+		},
+		{
+			"predicate": { "custom_model_data": 6 },
+			"model": "warped_fungus_on_a_stick/6"
+		},
+		{
+			"predicate": { "custom_model_data": 7 },
+			"model": "warped_fungus_on_a_stick/7"
+		},
+		{
+			"predicate": { "custom_model_data": 8 },
+			"model": "warped_fungus_on_a_stick/8"
+		}
+	]
+}
